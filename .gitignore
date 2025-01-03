@@ -15,3 +15,4 @@ node_modules/
 # Ignore specific directories
 build/
 dist/
+".vs/" 
